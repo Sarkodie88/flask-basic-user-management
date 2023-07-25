@@ -14,11 +14,9 @@ POST
 `/users`  
 Sign up users onto the platform using a username, unique email and password.
 
-
 POST  
 `/login`  
 Allow the users to sign in to their accounts using their email and password. Appropriate responses are returned for failures and successes.
-
 
 POST  
 `/resetpassword`  
@@ -26,7 +24,6 @@ Allow existing users who have forgotten their passwords to reset their passwords
 
 
 # Meta
-
 ___
 
 **Requirements**
